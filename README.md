@@ -1,8 +1,8 @@
-#python basics
+#Python Basics
 This repository contains my Python basics practice programs.
 It includes beginner-friendly examples and mini projects that helped me understand Python programming fundamentals
 
-#topics covered
+##Topics Covered
 - Print Statements
 - Variables
 - Data Types
@@ -20,7 +20,7 @@ It includes beginner-friendly examples and mini projects that helped me understa
 - Sets
 - Strings
 
-#practiced programs
+##Practiced Programs
 -Swapping Variables
 -Student Data Entry
 -Largest Among Three Numbers
@@ -30,4 +30,5 @@ It includes beginner-friendly examples and mini projects that helped me understa
 -Even or Odd Number
 -Factorial Calculator
 -Other Basic Python Practice Programs
-#Happy Coding
+
+##Happy Coding

@@ -29,6 +29,7 @@ It includes beginner-friendly examples and mini projects that helped me understa
 -Fibonacci Sequence
 -Even or Odd Number
 -Factorial Calculator
--Other Basic Python Practice Programs
+- Basic Python Practice Programs
+_checking num is prime or not
 
 ##Happy Coding
